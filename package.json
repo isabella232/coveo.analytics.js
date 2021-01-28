@@ -5,7 +5,7 @@
     "main": "dist/library.js",
     "module": "dist/library.es.js",
     "browser": "dist/coveoua.js",
-    "types": "dist/definitions/coveoua/library.d.ts",
+    "types": "dist/definitions/coveoua/headless.d.ts",
     "scripts": {
         "lint:check": "prettier --check .",
         "lint:fix": "prettier --write .",
